@@ -1,4 +1,4 @@
-# Use Ubuntu 20.04 as the base image
+# Use Ubuntu as the base image
 FROM ubuntu:latest
 
 # Set environment variables for non-interactive apt installs
